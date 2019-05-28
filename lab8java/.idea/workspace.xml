@@ -1,0 +1,979 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="668e7509-9345-40cb-835d-2511da0997b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/out/production/1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/META-INF/HelloWorld.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/sample/SampleController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/out/production/HelloWorld/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/sample/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/first.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/out/production/first/META-INF/first.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/out/production/first/application/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/out/production/first/application/MainController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/out/production/first/sample/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/src/application/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/src/application/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first/src/sample/main.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/first_progect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/out/production/first_progect/module-info.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/out/production/first_progect/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/out/production/first_progect/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/out/production/first_progect/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_progect/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/libraries/sbt__org_scala_lang_scala_library_2_12_8_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/modules/first_scala-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/modules/first_scala.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/sbt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/build.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/build.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$287b4d8721c5917a8044$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$287b4d8721c5917a8044.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$287b4d8721c5917a8044.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$97c5399589dba870fcda$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$97c5399589dba870fcda.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$97c5399589dba870fcda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$a7ded76b2173dd2c539b$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$a7ded76b2173dd2c539b.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/config-classes/$a7ded76b2173dd2c539b.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/first_scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/default/first_scala-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-first_scala-build-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/$global/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/$global/$global/discoveredMainClasses/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/compile/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/compileIncremental/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/compileIncremental/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/copyResources/$global/streams/copy-resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/copyResources/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/exportedProducts/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/internalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/project/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/src/example.sc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/src/main/scala/helloworld.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/.history" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/classes/helloworld$.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/classes/helloworld$delayedInit$body.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/classes/helloworld.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/default/first_scala$sources/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/default/first_scala$sources/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/default/first_scala_2.12/0.1/resolved.xml.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/default/first_scala_2.12/0.1/resolved.xml.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala$sources-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-compile-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-compile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-optional.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-provided.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-runtime-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-runtime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-scala-tool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-test-internal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/default-first_scala_2.12-test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/ivy-report.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/scala-2.12/resolution-cache/reports/ivy-report.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/$global/dumpStructure/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/input_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/dependencyPositions/$global/streams/update_cache_2.12/output_dsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/ivySbt/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/projectDescriptors/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/update/$global/streams/update_cache_2.12/inputs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/$global/updateClassifiers/$global/streams/out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/compile/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/compile/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/runtime/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/runtime/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/test/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/test/managedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/test/unmanagedClasspath/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../first_scala/target/streams/test/unmanagedJars/$global/streams/export" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/libraries/javafx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/jfx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/out/production/jfx/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/out/production/jfx/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/out/production/jfx/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jfx/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/libraries/javafx.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/out/production/lab1/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/lab1_2_28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/out/production/lab1_2_28/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/out/production/lab1_2_28/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/out/production/lab1_2_28/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_2_28/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/lab1_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/out/production/lab1_java/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/out/production/lab1_java/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/out/production/lab1_java/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/out/production/lab1_java/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab1_java/src/sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/lab2_java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/ship/Carrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/ship/Cruiser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/ship/Destroyer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/ship/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/ship/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab2_java/src/ship/Torpedo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/META-INF/lab2_java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/AntiAircraftGun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Carrier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Cruiser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Destroyer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Gun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/MainGun.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Plane.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Ship.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/entity/Torpedo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$10.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$8.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1$9.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/src/entity/AntiAircraftGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Gun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3_java/src/entity/MainGun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3nastya/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3nastya/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab3nastya/src/main/java/gui/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/META-INF/lab4.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/sample/MainStream$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/sample/MainStream.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/out/production/lab4/sample/SideThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4/src/sample/SideThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/lab4_13.05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/Man/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/PointOfIssue/PointOfIssue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/out/production/lab4_13.05/Сashbox/Cashbox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/src/Man/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/src/PointOfIssue/PointOfIssue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05/src/Сashbox/Cashbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/.idea/artifacts/.idea/artifacts.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/.idea/artifacts/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/.idea/artifacts/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/.idea/artifacts/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/.idea/artifacts/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/.idea/out.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/sample/Main$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/lab4_finale.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/Controller/Controller$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/Controller/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/META-INF/lab4_finale.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/Threads/MainThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/Threads/Threadd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/out/production/lab4_finale/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/src/Controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/src/Threads/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/src/Threads/Threadd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4_finale/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/lab4java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/out/production/lab4java/Cashbox/Cashbox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/out/production/lab4java/Man/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/out/production/lab4java/PointOfIssue/PointOfIssue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/out/production/lab4java/sample/Controller.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/out/production/lab4java/sample/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/out/production/lab4java/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/src/Cashbox/Cashbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/src/Man/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/src/PointOfIssue/PointOfIssue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/src/sample/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/src/sample/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab4java/src/sample/sample.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/lab5java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/src/test/java/ParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/src/test/java/VerifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Filter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Finder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/META-INF/lab5java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Parser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Sorter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/classes/Verifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/test-classes/FilterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/test-classes/FinderTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/test-classes/ParserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/test-classes/SorterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5java/target/test-classes/VerifierTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/lab6java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/Calculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/CollectionModifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/Concatinator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/Grouper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/MedianCollector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/MedianLenghtCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/Printer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/RepeatingElementsExcludor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/classes/SubrangeExtractor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/CalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/CollectionModifierTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/ConcatinatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/GrouperTest$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/GrouperTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/MedianLenghtCalculatorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/PrinterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/RepeatingElementsExcludorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab6java/target/test-classes/SubrangeExtractorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/4.10/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/4.10/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/4.10/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/4.10/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/4.10/taskHistory/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/4.10/taskHistory/taskHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/src/main/java/hello/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/src/main/java/hello/Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/src/main/java/hello/NumberConttroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/src/main/resources/number.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7finale/src/test/java/ApplicationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/lab7java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/src/main/java/hello/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/src/main/java/hello/calculatorController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/src/main/resources/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/target/classes/META-INF/lab7java.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/target/classes/hello/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/target/classes/hello/calculatorController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/target/classes/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab7java/target/classes/templates/greeting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/out/production/restaraunt/cashbox/Cashbox.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/out/production/restaraunt/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/out/production/restaraunt/kitchen/Kitchen.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/out/production/restaraunt/man/Man.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/restaraunt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/src/cashbox/Cashbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/src/kitchen/Kitchen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../restaraunt/src/man/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vgffv/vgffv.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/ship/Carrier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/ship/Carrier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/ship/Cruiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/ship/Cruiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/ship/Destroyer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/ship/Destroyer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/ship/Plane.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/ship/Plane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/ship/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/ship/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/out/production/lab2_java/ship/Torpedo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab2_java/out/production/lab2_java/ship/Torpedo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/entity/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Carrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/entity/Cruiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Cruiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/entity/Destroyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Destroyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/entity/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/entity/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/entity/Torpedo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/entity/Torpedo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3_java/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab3_java/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/Man/Man.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/Man/Man.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/PointOfIssue/PointOfIssue.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/PointOfIssue/PointOfIssue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/Сashbox/Cashbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/out/production/lab4_13.05/Сashbox/Cashbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/src/Man/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/Man/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/src/PointOfIssue/PointOfIssue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/PointOfIssue/PointOfIssue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/src/sample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/sample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4_13.05_last/src/Сashbox/Cashbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab4_13.05_last/src/Сashbox/Cashbox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Filter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Filter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Finder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Finder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/main/java/Verifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/main/java/Verifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/test/java/FilterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/test/java/FilterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/test/java/FinderTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/test/java/FinderTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5java/src/test/java/SorterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5java/src/test/java/SorterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/CollectionModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/CollectionModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/Concatinator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/Concatinator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/Grouper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/Grouper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/MedianCollector.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/MedianCollector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/MedianLenghtCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/MedianLenghtCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/RepeatingElementsExcludor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/RepeatingElementsExcludor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/main/java/SubrangeExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/main/java/SubrangeExtractor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/CollectionModifierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/CollectionModifierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/ConcatinatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/ConcatinatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/GrouperTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/GrouperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/MedianLenghtCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/MedianLenghtCalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/PrinterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/RepeatingElementsExcludorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/RepeatingElementsExcludorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6java/src/test/java/SubrangeExtractorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6java/src/test/java/SubrangeExtractorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/libraries/lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/out/production/second/sample/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/out/production/second/sample/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/out/production/second/sample/sample.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/second.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/src/sample/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/src/sample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../third_java/src/sample/sample.fxml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="697">
+              <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Fourth.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+              <folding>
+                <element signature="e#51#52#0" expanded="true" />
+                <element signature="e#79#80#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Third.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Second.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/First.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/sample/A.java" />
+        <option value="$PROJECT_DIR$/src/sample/First.java" />
+        <option value="$PROJECT_DIR$/src/sample/Second.java" />
+        <option value="$PROJECT_DIR$/src/sample/Third.java" />
+        <option value="$PROJECT_DIR$/src/sample/Fourth.java" />
+        <option value="$PROJECT_DIR$/src/sample/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab8java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lab8java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="lab8java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668e7509-9345-40cb-835d-2511da0997b2" name="Default Changelist" comment="" />
+      <created>1559067798971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559067798971</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3285968" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Maven" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="30" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/E.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Fourth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <element signature="e#51#52#0" expanded="true" />
+            <element signature="e#79#80#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="11" selection-start-line="41" selection-start-column="11" selection-end-line="41" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>javafx-swt</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lab8java</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
